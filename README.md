@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**PokeImage** is an android app that **displays random Pokemons when the user clicks a button. Every time that button is clicked, a new pokemon, along with its name and type, appears on the screen**
+**PokeImage** is an android app that **Displays a Pokemon based on the user's query. Once the user has typed in a pokemon and pressed the "Search Pokemon" button, the app returns a picture of the pokemon, it's name, and it's type!**
 
 If I had to describe this project in three (3) emojis, they would be: **🎮🔍🧬**
 
